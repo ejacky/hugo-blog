@@ -30,4 +30,6 @@ Sending telemetry for run id 1997691410
 
 - 日期显示问题
 - about 导航没出现
+- 首页每篇文章展示首段，可仿照 [月光博客](https://www.williamlong.info/ )
+
 

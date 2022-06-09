@@ -4,6 +4,7 @@ title = '反求诸己'
 theme = "blank"
 summaryLength = 10
 timeZone = 'Asia/Shanghai'
+publishDir = '../ejacky.github.io'
 [frontmatter]
   lastmod = [":fileModTime", "lastmod"]
 
